@@ -1,1 +1,1 @@
-This is hasnain alvi simple calculator.
+*"simple_calculator"*
