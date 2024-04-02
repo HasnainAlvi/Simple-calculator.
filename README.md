@@ -1,1 +1,1 @@
-this is hasnain alvi simple calculator.
+This is hasnain alvi simple calculator.
