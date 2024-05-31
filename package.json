@@ -1,7 +1,7 @@
 {
   "name": "hasnain-haider-alvi-simple-calculator",
   "version": "1.0.0",
-  "description": "simple calculator",
+  "description":  "hasnainalvi_simple_calculator",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
